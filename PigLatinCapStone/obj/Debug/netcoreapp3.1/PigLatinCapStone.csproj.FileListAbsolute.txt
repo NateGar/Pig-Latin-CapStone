@@ -1,0 +1,13 @@
+C:\Users\Nate\Documents\CSharp_april2020\PigLatinCapStone\PigLatinCapStone\bin\Debug\netcoreapp3.1\PigLatinCapStone.exe
+C:\Users\Nate\Documents\CSharp_april2020\PigLatinCapStone\PigLatinCapStone\bin\Debug\netcoreapp3.1\PigLatinCapStone.deps.json
+C:\Users\Nate\Documents\CSharp_april2020\PigLatinCapStone\PigLatinCapStone\bin\Debug\netcoreapp3.1\PigLatinCapStone.runtimeconfig.json
+C:\Users\Nate\Documents\CSharp_april2020\PigLatinCapStone\PigLatinCapStone\bin\Debug\netcoreapp3.1\PigLatinCapStone.runtimeconfig.dev.json
+C:\Users\Nate\Documents\CSharp_april2020\PigLatinCapStone\PigLatinCapStone\bin\Debug\netcoreapp3.1\PigLatinCapStone.dll
+C:\Users\Nate\Documents\CSharp_april2020\PigLatinCapStone\PigLatinCapStone\bin\Debug\netcoreapp3.1\PigLatinCapStone.pdb
+C:\Users\Nate\Documents\CSharp_april2020\PigLatinCapStone\PigLatinCapStone\obj\Debug\netcoreapp3.1\PigLatinCapStone.csprojAssemblyReference.cache
+C:\Users\Nate\Documents\CSharp_april2020\PigLatinCapStone\PigLatinCapStone\obj\Debug\netcoreapp3.1\PigLatinCapStone.csproj.CoreCompileInputs.cache
+C:\Users\Nate\Documents\CSharp_april2020\PigLatinCapStone\PigLatinCapStone\obj\Debug\netcoreapp3.1\PigLatinCapStone.AssemblyInfoInputs.cache
+C:\Users\Nate\Documents\CSharp_april2020\PigLatinCapStone\PigLatinCapStone\obj\Debug\netcoreapp3.1\PigLatinCapStone.AssemblyInfo.cs
+C:\Users\Nate\Documents\CSharp_april2020\PigLatinCapStone\PigLatinCapStone\obj\Debug\netcoreapp3.1\PigLatinCapStone.dll
+C:\Users\Nate\Documents\CSharp_april2020\PigLatinCapStone\PigLatinCapStone\obj\Debug\netcoreapp3.1\PigLatinCapStone.pdb
+C:\Users\Nate\Documents\CSharp_april2020\PigLatinCapStone\PigLatinCapStone\obj\Debug\netcoreapp3.1\PigLatinCapStone.genruntimeconfig.cache
